@@ -1,1 +1,1 @@
-worker: Brakefile
+worker: bright
