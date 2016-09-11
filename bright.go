@@ -1,7 +1,6 @@
 package main
 
 import (
-  "github.com/joho/godotenv"
   "github.com/go-chat-bot/bot/irc"
   _ "github.com/aburgd/plugins/gif"
   _ "github.com/aburgd/plugins/catgif"
@@ -21,11 +20,6 @@ import (
 )
 
 func main()  {
-  // error handling for env loadings
-  err := godotenv.Load()
-  if err != nil {
-    log.Fatal("Error loading .env file")
-  }
 
   // load the config
   config := brightConfig()

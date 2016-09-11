@@ -56,11 +56,6 @@
 			"Rev": "059304639a1bcd2fa5acd68eee4f64dc270d519f"
 		},
 		{
-			"ImportPath": "github.com/joho/godotenv",
-			"Comment": "v1-10-g4ed1339",
-			"Rev": "4ed13390c0acd2ff4e371e64d8b97c8954138243"
-		},
-		{
 			"ImportPath": "github.com/mattn/go-shellwords",
 			"Comment": "v1.0.0-1-g525bede",
 			"Rev": "525bedee691b5a8df547cb5cf9f86b7fb1883e24"
