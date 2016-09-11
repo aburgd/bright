@@ -1,0 +1,5 @@
+#! /usr/bin
+
+go get
+go build bright.go
+./bright
