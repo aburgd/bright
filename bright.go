@@ -1,7 +1,7 @@
 package main
 
 import (
-  // "github.com/joho/godotenv"
+  "github.com/joho/godotenv"
   "github.com/go-chat-bot/bot/irc"
   _ "github.com/aburgd/plugins/gif"
   _ "github.com/aburgd/plugins/catgif"
