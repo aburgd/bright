@@ -40,10 +40,6 @@
 			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
 		},
 		{
-			"ImportPath": "github.com/aburgd/plugins/url",
-			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
-		},
-		{
 			"ImportPath": "github.com/go-chat-bot/bot",
 			"Rev": "175cb6de58d32eb780ec6ec3a955de93985f4b84"
 		},
