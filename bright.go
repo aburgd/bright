@@ -6,7 +6,6 @@ import (
   _ "github.com/aburgd/plugins/catgif"
   _ "github.com/aburgd/plugins/catfacts"
   _ "github.com/aburgd/plugins/treta"
-  _ "github.com/aburgd/plugins/url"
   _ "github.com/aburgd/plugins/puppet"
   // custom plugins
   _ "github.com/aburgd/plugins/hello"
