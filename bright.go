@@ -21,9 +21,11 @@ import (
 
 func main()  {
 
+  server := os.Getenv("IRC_SERVER")
+  channels := strings.Split("#" + os.Getenv("IRC_CHANNELS"), ",")
   // load the config
   config := brightConfig()
-  log.Printf("%v\n", config)
+  log.Printf("connected to server: %s; channels: %s", server, channels)
   irc.Run(config)
 }
 
