@@ -5,7 +5,11 @@ build:
     - setup-go-workspace
 
     - script:
-        name: go get
+        name: go get godep
         code: |
-          go get
+          go get github.com/tools/godep
+    - script:
+        name: godep get
+        code: |
+          godep go install
 
