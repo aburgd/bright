@@ -2,7 +2,7 @@ package url
 
 import (
 	"github.com/go-chat-bot/bot"
-	"github.com/go-chat-bot/plugins/web"
+	"github.com/aburgd/plugins/web"
 	"html"
 	"net/url"
 	"regexp"

@@ -3,7 +3,7 @@ package gif
 import (
 	"fmt"
 	"github.com/go-chat-bot/bot"
-	"github.com/go-chat-bot/plugins/web"
+	"github.com/aburgd/plugins/web"
 	"math/rand"
 	"net/url"
 	"time"

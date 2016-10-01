@@ -2,9 +2,10 @@ package catfacts
 
 import (
 	"fmt"
-	"github.com/go-chat-bot/bot"
-	"github.com/go-chat-bot/plugins/web"
 	"regexp"
+
+	"github.com/aburgd/plugins/web"
+	"github.com/go-chat-bot/bot"
 )
 
 const (
