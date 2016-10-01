@@ -1,6 +1,70 @@
 {
-	"ImportPath": ".",
+	"ImportPath": "github.com/aburgd/bright",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
-	"Deps": []
+	"Deps": [
+		{
+			"ImportPath": "github.com/aburgd/plugins/about",
+			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+		},
+		{
+			"ImportPath": "github.com/aburgd/plugins/botgod",
+			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+		},
+		{
+			"ImportPath": "github.com/aburgd/plugins/catfacts",
+			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+		},
+		{
+			"ImportPath": "github.com/aburgd/plugins/catgif",
+			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+		},
+		{
+			"ImportPath": "github.com/aburgd/plugins/doctors",
+			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+		},
+		{
+			"ImportPath": "github.com/aburgd/plugins/gif",
+			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+		},
+		{
+			"ImportPath": "github.com/aburgd/plugins/hello",
+			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+		},
+		{
+			"ImportPath": "github.com/aburgd/plugins/puppet",
+			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+		},
+		{
+			"ImportPath": "github.com/aburgd/plugins/treta",
+			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+		},
+		{
+			"ImportPath": "github.com/aburgd/plugins/web",
+			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/bot",
+			"Rev": "175cb6de58d32eb780ec6ec3a955de93985f4b84"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/bot/irc",
+			"Rev": "175cb6de58d32eb780ec6ec3a955de93985f4b84"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-shellwords",
+			"Comment": "v1.0.0-1-g525bede",
+			"Rev": "525bedee691b5a8df547cb5cf9f86b7fb1883e24"
+		},
+		{
+			"ImportPath": "github.com/robfig/cron",
+			"Comment": "v1-36-gab4c16f",
+			"Rev": "ab4c16f3a09641bd19d65f55b3d8d6edda7a8e05"
+		},
+		{
+			"ImportPath": "github.com/thoj/go-ircevent",
+			"Comment": "0.1",
+			"Rev": "a6b1561a016c2a4aae183c3ef152c25d134c095d"
+		}
+	]
 }
