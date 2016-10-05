@@ -40,16 +40,16 @@
 			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
 		},
 		{
-			"ImportPath": "github.com/aburgd/plugins/web",
-			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
-		},
-		{
 			"ImportPath": "github.com/go-chat-bot/bot",
 			"Rev": "175cb6de58d32eb780ec6ec3a955de93985f4b84"
 		},
 		{
 			"ImportPath": "github.com/go-chat-bot/bot/irc",
 			"Rev": "175cb6de58d32eb780ec6ec3a955de93985f4b84"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins/web",
+			"Rev": "059304639a1bcd2fa5acd68eee4f64dc270d519f"
 		},
 		{
 			"ImportPath": "github.com/mattn/go-shellwords",

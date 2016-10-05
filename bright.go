@@ -12,6 +12,8 @@ import (
   _ "github.com/aburgd/plugins/about"
   _ "github.com/aburgd/plugins/doctors"
   _ "github.com/aburgd/plugins/botgod"
+  _ "github.com/aburgd/plugins/yesno"
+  _ "github.com/aburgd/plugins/duckduckgo"
   // system
   "os"
   "log"
