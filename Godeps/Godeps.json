@@ -2,42 +2,53 @@
 	"ImportPath": "github.com/aburgd/bright",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
 	"Deps": [
 		{
 			"ImportPath": "github.com/aburgd/plugins/about",
-			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+			"Rev": "b4348714708d71cfd28ab928f499c8cd12f8c538"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/botgod",
-			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+			"Rev": "b4348714708d71cfd28ab928f499c8cd12f8c538"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/catfacts",
-			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+			"Rev": "b4348714708d71cfd28ab928f499c8cd12f8c538"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/catgif",
-			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+			"Rev": "b4348714708d71cfd28ab928f499c8cd12f8c538"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/doctors",
-			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+			"Rev": "b4348714708d71cfd28ab928f499c8cd12f8c538"
+		},
+		{
+			"ImportPath": "github.com/aburgd/plugins/duckduckgo",
+			"Rev": "b4348714708d71cfd28ab928f499c8cd12f8c538"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/gif",
-			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+			"Rev": "b4348714708d71cfd28ab928f499c8cd12f8c538"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/hello",
-			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+			"Rev": "b4348714708d71cfd28ab928f499c8cd12f8c538"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/puppet",
-			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+			"Rev": "b4348714708d71cfd28ab928f499c8cd12f8c538"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/treta",
-			"Rev": "0cc84da2ecdd4639c69c2e95ab3c026f91e89f77"
+			"Rev": "b4348714708d71cfd28ab928f499c8cd12f8c538"
+		},
+		{
+			"ImportPath": "github.com/aburgd/plugins/yesno",
+			"Rev": "b4348714708d71cfd28ab928f499c8cd12f8c538"
 		},
 		{
 			"ImportPath": "github.com/go-chat-bot/bot",
@@ -55,6 +66,11 @@
 			"ImportPath": "github.com/mattn/go-shellwords",
 			"Comment": "v1.0.0-1-g525bede",
 			"Rev": "525bedee691b5a8df547cb5cf9f86b7fb1883e24"
+		},
+		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.8.0-1-g839d9e9",
+			"Rev": "839d9e913e063e28dfd0e6c7b7512793e0a48be9"
 		},
 		{
 			"ImportPath": "github.com/robfig/cron",
