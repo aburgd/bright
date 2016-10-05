@@ -2,50 +2,53 @@
 	"ImportPath": "github.com/aburgd/bright",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
 	"Deps": [
 		{
 			"ImportPath": "github.com/aburgd/plugins/about",
-			"Rev": "508f2dce778c941b23c722db80556296c9ee2040"
+			"Rev": "eaa912ae9c52ae5eb0f008767bc469e62b2e214e"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/botgod",
-			"Rev": "508f2dce778c941b23c722db80556296c9ee2040"
+			"Rev": "eaa912ae9c52ae5eb0f008767bc469e62b2e214e"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/catfacts",
-			"Rev": "508f2dce778c941b23c722db80556296c9ee2040"
+			"Rev": "eaa912ae9c52ae5eb0f008767bc469e62b2e214e"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/catgif",
-			"Rev": "508f2dce778c941b23c722db80556296c9ee2040"
+			"Rev": "eaa912ae9c52ae5eb0f008767bc469e62b2e214e"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/doctors",
-			"Rev": "508f2dce778c941b23c722db80556296c9ee2040"
+			"Rev": "eaa912ae9c52ae5eb0f008767bc469e62b2e214e"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/duckduckgo",
-			"Rev": "508f2dce778c941b23c722db80556296c9ee2040"
+			"Rev": "eaa912ae9c52ae5eb0f008767bc469e62b2e214e"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/gif",
-			"Rev": "508f2dce778c941b23c722db80556296c9ee2040"
+			"Rev": "eaa912ae9c52ae5eb0f008767bc469e62b2e214e"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/hello",
-			"Rev": "508f2dce778c941b23c722db80556296c9ee2040"
+			"Rev": "eaa912ae9c52ae5eb0f008767bc469e62b2e214e"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/puppet",
-			"Rev": "508f2dce778c941b23c722db80556296c9ee2040"
+			"Rev": "eaa912ae9c52ae5eb0f008767bc469e62b2e214e"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/treta",
-			"Rev": "508f2dce778c941b23c722db80556296c9ee2040"
+			"Rev": "eaa912ae9c52ae5eb0f008767bc469e62b2e214e"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/yesno",
-			"Rev": "508f2dce778c941b23c722db80556296c9ee2040"
+			"Rev": "eaa912ae9c52ae5eb0f008767bc469e62b2e214e"
 		},
 		{
 			"ImportPath": "github.com/go-chat-bot/bot",
@@ -71,8 +74,8 @@
 		},
 		{
 			"ImportPath": "github.com/robfig/cron",
-			"Comment": "v1-36-gab4c16f",
-			"Rev": "ab4c16f3a09641bd19d65f55b3d8d6edda7a8e05"
+			"Comment": "v1-47-g9585fd5",
+			"Rev": "9585fd555638e77bba25f25db5c44b41f264aeb7"
 		},
 		{
 			"ImportPath": "github.com/thoj/go-ircevent",
