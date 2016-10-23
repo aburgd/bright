@@ -9,7 +9,6 @@ build:
         code: |
           go get github.com/tools/godep
     - script:
-        name: godep get
+        name: godep install
         code: |
           godep go install
-
