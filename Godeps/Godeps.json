@@ -2,53 +2,50 @@
 	"ImportPath": "github.com/aburgd/bright",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
-	"Packages": [
-		"./..."
-	],
 	"Deps": [
 		{
 			"ImportPath": "github.com/aburgd/plugins/about",
-			"Rev": "4b5bf021a7352e4cc1d00a1a2f27d0cd7c37d2ac"
+			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/botgod",
-			"Rev": "4b5bf021a7352e4cc1d00a1a2f27d0cd7c37d2ac"
+			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/catfacts",
-			"Rev": "4b5bf021a7352e4cc1d00a1a2f27d0cd7c37d2ac"
+			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/catgif",
-			"Rev": "4b5bf021a7352e4cc1d00a1a2f27d0cd7c37d2ac"
+			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/doctors",
-			"Rev": "4b5bf021a7352e4cc1d00a1a2f27d0cd7c37d2ac"
+			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/duckduckgo",
-			"Rev": "4b5bf021a7352e4cc1d00a1a2f27d0cd7c37d2ac"
+			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/gif",
-			"Rev": "4b5bf021a7352e4cc1d00a1a2f27d0cd7c37d2ac"
+			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/hello",
-			"Rev": "4b5bf021a7352e4cc1d00a1a2f27d0cd7c37d2ac"
+			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/puppet",
-			"Rev": "4b5bf021a7352e4cc1d00a1a2f27d0cd7c37d2ac"
+			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/treta",
-			"Rev": "4b5bf021a7352e4cc1d00a1a2f27d0cd7c37d2ac"
+			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/yesno",
-			"Rev": "4b5bf021a7352e4cc1d00a1a2f27d0cd7c37d2ac"
+			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
 		},
 		{
 			"ImportPath": "github.com/go-chat-bot/bot",
