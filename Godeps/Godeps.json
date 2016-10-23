@@ -2,50 +2,53 @@
 	"ImportPath": "github.com/aburgd/bright",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
 	"Deps": [
 		{
 			"ImportPath": "github.com/aburgd/plugins/about",
-			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
+			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/botgod",
-			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
+			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/catfacts",
-			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
+			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/catgif",
-			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
+			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/doctors",
-			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
+			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/duckduckgo",
-			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
+			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/gif",
-			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
+			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/hello",
-			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
+			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/puppet",
-			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
+			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/treta",
-			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
+			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/yesno",
-			"Rev": "c6dc560b13b065e34dc23b88d28d7b2d05b6f17a"
+			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
 		},
 		{
 			"ImportPath": "github.com/go-chat-bot/bot",
@@ -58,6 +61,11 @@
 		{
 			"ImportPath": "github.com/go-chat-bot/plugins/web",
 			"Rev": "059304639a1bcd2fa5acd68eee4f64dc270d519f"
+		},
+		{
+			"ImportPath": "github.com/joho/godotenv",
+			"Comment": "v1-10-g4ed1339",
+			"Rev": "4ed13390c0acd2ff4e371e64d8b97c8954138243"
 		},
 		{
 			"ImportPath": "github.com/mattn/go-shellwords",
