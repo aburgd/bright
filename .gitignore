@@ -1,5 +1,5 @@
 .env
 *.exe
-vendor/github.com/joho/godotenv
 # (development only)
+vendor/github.com/joho/godotenv
 bright-local.go
