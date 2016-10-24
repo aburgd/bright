@@ -8,47 +8,47 @@
 	"Deps": [
 		{
 			"ImportPath": "github.com/aburgd/plugins/about",
-			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
+			"Rev": "3db9000508bbadeca471d0a62a66b7866d171799"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/botgod",
-			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
+			"Rev": "3db9000508bbadeca471d0a62a66b7866d171799"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/catfacts",
-			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
+			"Rev": "3db9000508bbadeca471d0a62a66b7866d171799"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/catgif",
-			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
+			"Rev": "3db9000508bbadeca471d0a62a66b7866d171799"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/doctors",
-			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
+			"Rev": "3db9000508bbadeca471d0a62a66b7866d171799"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/duckduckgo",
-			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
+			"Rev": "3db9000508bbadeca471d0a62a66b7866d171799"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/gif",
-			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
+			"Rev": "3db9000508bbadeca471d0a62a66b7866d171799"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/hello",
-			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
+			"Rev": "3db9000508bbadeca471d0a62a66b7866d171799"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/puppet",
-			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
+			"Rev": "3db9000508bbadeca471d0a62a66b7866d171799"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/treta",
-			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
+			"Rev": "3db9000508bbadeca471d0a62a66b7866d171799"
 		},
 		{
 			"ImportPath": "github.com/aburgd/plugins/yesno",
-			"Rev": "cb2b86f9ae85e9ea7eae9a32620b6738a4a50686"
+			"Rev": "3db9000508bbadeca471d0a62a66b7866d171799"
 		},
 		{
 			"ImportPath": "github.com/go-chat-bot/bot",
